@@ -1,1 +1,1 @@
-# smita-porfolio
+# smita-portfolio
